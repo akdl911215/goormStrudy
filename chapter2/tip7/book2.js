@@ -15,4 +15,6 @@ function formatBook2(title, author, price, publicationDate) {
 
 
 console.log("formatBook2(...book2) : ", formatBook2(...book2));
+
+
 // 책 제목: IT의 미래 저자: 이정현 가격: 99000원 발간일: 2020년10월08일
