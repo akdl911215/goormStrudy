@@ -1,4 +1,4 @@
-const landsscape = {
+const landscape = {
 	title: 'Landscape',
 	photographer: 'Nathan',
 	equipment: 'Canon',
@@ -6,3 +6,5 @@ const landsscape = {
 	src: '/nadscape-nm.jpg',
 	location: [32.712222, -103.1405556],
 }
+
+export { landscape }
