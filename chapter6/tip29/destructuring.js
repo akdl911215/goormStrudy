@@ -7,4 +7,4 @@ const landscape = {
 	location: [32.712222, -103.1405556],
 }
 
-export { landscape }
+console.log('landscape : ', landscape)

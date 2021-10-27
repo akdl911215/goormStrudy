@@ -33,3 +33,9 @@ function displayPhoto(photo) {
 }
 
 console.log('displayPhoto(landscape) : ', displayPhoto(landscape))
+// <img alt="Landscape 사진 Nathan 촬영" src="/nadscape-nm.jpg" />
+// <div>Landscape</div>
+// <div>Nathan</div>
+// <div>위도: 32.712222</div>
+// <div>경도: -103.1405556</div>
+// <div>equipment:Canon <br/> format:digital</div>
