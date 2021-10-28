@@ -2,7 +2,7 @@ const landscape = {};
 const { photographer = 'Anonymous', title } = landscape;
 
 console.log('photographer : ', photographer)
-// landscape
+// Anonymous
 
 console.log('title : ', title)
 // undefined

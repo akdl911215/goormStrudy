@@ -9,5 +9,8 @@ const {
 	...additional
 } = landscape
 
+console.log('photographer : ', photographer)
+
+
 console.log('additional : ', additional)
 // { equiment: 'Canon', format: 'digital' }
