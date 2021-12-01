@@ -9,3 +9,8 @@ Person.prototype.sayHi = function() {
 	console.log(`Hi! My name is ${this.name}. I am ${_age}`);
 	
 }
+
+const metoo = Person('me', 100);
+metoo.sayHi();
+console.log(metoo.name);
+console.log(metoo.age);
