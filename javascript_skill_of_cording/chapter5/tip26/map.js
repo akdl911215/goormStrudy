@@ -22,3 +22,8 @@ const dogs = [
 
 const colors = dogs.map((dog) => dog["색상"]);
 console.log(colors);
+// [ '검정색', '검정색', '빨간색' ]
+
+let color = new Set(colors);
+console.log(color);
+// Set(2) { '검정색', '빨간색' }
